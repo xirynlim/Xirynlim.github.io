@@ -143,7 +143,7 @@ CMNS2016_Ass1_Website
         <!-- Main Video 1 (Default Display) -->
         <div id="mainVideoSection" class="video-section">
             <video id="mainVideo" controls>
-                <source src="C:\Users\xiryn\Videos\CMNS2016_ASS 1_Xiryn Lim_c3546342\New folder\CMNS2016_ASS 1_Xiryn Lim_c3546342.mp4" type="video/mp4">
+                <source src="https://youtube.com/shorts/BEWkeGrSfVI?si=ms3WH9gKsN0XH4fo">
                 Your browser does not support video playback.
             </video>
         </div>
@@ -157,7 +157,7 @@ CMNS2016_Ass1_Website
         <!-- Result Video 1 -->
         <div id="resultVideo1Section" class="video-section hidden">
             <video id="resultVideo1" controls>
-                <source src="C:\Users\xiryn\Videos\CMNS2016_ASS 1_Xiryn Lim_c3546342\New folder\CMNS2016_ASS 1 (outcome 1)_Xiryn Lim_c3546342.mp4">
+                <source src="https://youtube.com/shorts/4e3PuV0hqzc?feature=share">
                 Your browser does not support video playback.
             </video>
             <button class="back-btn" onclick="goBackToMain()">Back to Main Video</button>
@@ -166,7 +166,7 @@ CMNS2016_Ass1_Website
         <!-- Result Video 2 -->
         <div id="resultVideo2Section" class="video-section hidden">
             <video id="resultVideo2" controls>
-                <source src="C:\Users\xiryn\Videos\CMNS2016_ASS 1_Xiryn Lim_c3546342\New folder\CMNS2016_ASS 1 (outcome 2)_Xiryn Lim_c3546342.mp4">
+                <source src="https://youtube.com/shorts/X6lOkHuSuMQ?feature=share">
                 Your browser does not support video playback.
             </video>
             <button class="back-btn" onclick="goBackToMain()">Back to Main Video</button>
