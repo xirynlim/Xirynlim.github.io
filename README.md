@@ -1,7 +1,6 @@
 # Xirynlim.github.io
 CMNS2016_Ass1_Website
-[CMNS2016_Ass1_video website.index.html](https://github.com/user-attachments/files/28837525/CMNS2016_Ass1_video.website.index.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
